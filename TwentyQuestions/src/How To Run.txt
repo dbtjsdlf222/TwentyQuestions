@@ -1,0 +1,4 @@
+1. Start Server.RunServer.java
+2. Client.RunClient.java
+
+한 컴퓨터에서 실행시 jar로 Export 후 .bat 파일로 여러개 실행 
